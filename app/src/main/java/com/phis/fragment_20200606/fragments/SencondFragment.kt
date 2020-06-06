@@ -20,7 +20,7 @@ class SencondFragment: Fragment() {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
-        messageTxt.text = "안녕하세요"
+        messageTxt.text = "반갑습니다"
     }
 
 }
