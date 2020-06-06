@@ -2,7 +2,7 @@ package com.phis.fragment_20200606
 
 import androidx.appcompat.app.AppCompatActivity
 
-abstract class BaseActivity : AppCompatActivity {
+abstract class BaseActivity : AppCompatActivity() {
 
     val mContext = this
 
