@@ -13,4 +13,10 @@
         android:layout_height="200dp"
         class="com.phis.fragment_20200606.fragments.FirstFragment" />
 
+    <fragment
+        android:tag="첫프래그먼트 재활용"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        class="com.phis.fragment_20200606.fragments.FirstFragment" />
+
 </LinearLayout>
