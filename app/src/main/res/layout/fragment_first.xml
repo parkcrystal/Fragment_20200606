@@ -16,4 +16,4 @@
         android:textSize="25sp"
         android:text="첫번째 프래그먼트" />
 
-</>
+</LinearLayout>
